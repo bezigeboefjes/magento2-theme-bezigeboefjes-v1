@@ -5,6 +5,6 @@
  */
 \Magento\Framework\Component\ComponentRegistrar::register(
     \Magento\Framework\Component\ComponentRegistrar::THEME,
-    'frontend/bezigeboefjes/bbtheme1',
+    'frontend/bezigeboefjes/theme-bezigeboefjes-v1',
     __DIR__
 );
